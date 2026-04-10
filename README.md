@@ -90,7 +90,7 @@ The goal is to understand why customers leave and provide actionable insights to
 
 ## 📸 Dashboard Preview
 
-(Add your Power BI dashboard screenshot here)
+![Dashboard](dashboardpreview.png)
 
 
 
